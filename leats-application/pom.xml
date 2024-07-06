@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.luandeoliveira</groupId>
-	<artifactId>leats</artifactId>
+	<artifactId>leats-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>leats</name>
 	<description>Leats</description>
